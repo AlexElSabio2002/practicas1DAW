@@ -18,6 +18,7 @@ public class EcuacionSegundoGrado2 {
 		
 		// Declaramos variables
 		Scanner tecladoTexto = new Scanner(System.in);
+		System.out.println("Hola");
 		int coeficiente;
 		
 		System.out.println("Introduce un coeficiente ");
